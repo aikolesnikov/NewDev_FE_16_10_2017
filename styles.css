@@ -1,0 +1,787 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1200px;
+	 height: 1200px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1200px;
+	 height: 1200px;
+	 z-index:1;
+} 
+
+ #Shape63copy2 
+{ 
+	 left: 128px; 
+	 top: 80px; 
+	 position: absolute; 
+	 width: 624px;
+	 height: 255px;
+	 z-index:2;
+} 
+
+ #LiverpooloutcastJose 
+{ 
+	 left: 528px; 
+	 top: 211px; 
+	 position: absolute; 
+	 width: 178px;
+	 height: 49px;
+	 z-index:3;
+} 
+
+ #Shape27copy6 
+{ 
+	 left: 696px; 
+	 top: 297px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 22px;
+	 z-index:4;
+} 
+
+ #Shape63copy 
+{ 
+	 left: 128px; 
+	 top: 332px; 
+	 position: absolute; 
+	 width: 624px;
+	 height: 8px;
+	 z-index:5;
+} 
+
+ #JurgenKloppmakesasex 
+{ 
+	 left: 529px; 
+	 top: 95px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 101px;
+	 z-index:6;
+} 
+
+ #layer_710 
+{ 
+	 left: 653px; 
+	 top: 302px; 
+	 position: absolute; 
+	 width: 37px;
+	 height: 16px;
+	 z-index:7;
+} 
+
+ #Shape6copy6 
+{ 
+	 left: 629px; 
+	 top: 295px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 28px;
+	 z-index:8;
+} 
+
+ #Shape6copy6_0 
+{ 
+	 left: 720px; 
+	 top: 296px; 
+	 position: absolute; 
+	 width: 20px;
+	 height: 28px;
+	 z-index:9;
+} 
+
+ #Layer160 
+{ 
+	 left: 130px; 
+	 top: 83px; 
+	 position: absolute; 
+	 width: 377px;
+	 height: 250px;
+	 z-index:10;
+} 
+
+ #Shape55copy9 
+{ 
+	 left: 172px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 580px;
+	 height: 33px;
+	 z-index:11;
+} 
+
+ #Shape55copy9_0 
+{ 
+	 left: 129px; 
+	 top: 30px; 
+	 position: absolute; 
+	 width: 123px;
+	 height: 32px;
+	 z-index:12;
+} 
+
+ #Hotthemes 
+{ 
+	 left: 145px; 
+	 top: 38px; 
+	 position: absolute; 
+	 width: 86px;
+	 height: 14px;
+	 z-index:13;
+} 
+
+ #EURO2016PlayoffsElCl 
+{ 
+	 left: 262px; 
+	 top: 39px; 
+	 position: absolute; 
+	 width: 260px;
+	 height: 17px;
+	 z-index:14;
+} 
+
+ #AlvaroMoratainsistsJ 
+{ 
+	 left: 130px; 
+	 top: 1011px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 102px;
+	 z-index:15;
+} 
+
+ #ZlatanIbrahimovicont 
+{ 
+	 left: 236px; 
+	 top: 959px; 
+	 position: absolute; 
+	 width: 266px;
+	 height: 34px;
+	 z-index:16;
+} 
+
+ #Layer99 
+{ 
+	 left: 130px; 
+	 top: 948px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 55px;
+	 z-index:17;
+} 
+
+ #Layer165 
+{ 
+	 left: 130px; 
+	 top: 948px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 55px;
+	 z-index:18;
+} 
+
+ #Newsfeed 
+{ 
+	 left: 131px; 
+	 top: 918px; 
+	 position: absolute; 
+	 width: 95px;
+	 height: 18px;
+	 z-index:19;
+} 
+
+ #Shape8copy15 
+{ 
+	 left: 233px; 
+	 top: 932px; 
+	 position: absolute; 
+	 width: 277px;
+	 height: 5px;
+	 z-index:20;
+} 
+
+ #RealMadridplayerstog 
+{ 
+	 left: 130px; 
+	 top: 616px; 
+	 position: absolute; 
+	 width: 377px;
+	 height: 267px;
+	 z-index:21;
+} 
+
+ #Layer31copy4 
+{ 
+	 left: 376px; 
+	 top: 699px; 
+	 position: absolute; 
+	 width: 21px;
+	 height: 27px;
+	 z-index:22;
+} 
+
+ #LastNews 
+{ 
+	 left: 131px; 
+	 top: 587px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 18px;
+	 z-index:23;
+} 
+
+ #Shape8copy16 
+{ 
+	 left: 238px; 
+	 top: 601px; 
+	 position: absolute; 
+	 width: 272px;
+	 height: 5px;
+	 z-index:24;
+} 
+
+ #Shape75copy5 
+{ 
+	 left: 299px; 
+	 top: 791px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 15px;
+	 z-index:25;
+} 
+
+ #Shape75copy11 
+{ 
+	 left: 366px; 
+	 top: 981px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 15px;
+	 z-index:26;
+} 
+
+ #Shape76copy3 
+{ 
+	 left: 321px; 
+	 top: 790px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 15px;
+	 z-index:27;
+} 
+
+ #Shape76copy5 
+{ 
+	 left: 392px; 
+	 top: 1049px; 
+	 position: absolute; 
+	 width: 18px;
+	 height: 15px;
+	 z-index:28;
+} 
+
+ #TOPGoalsoftheWeek 
+{ 
+	 left: 920px; 
+	 top: 66px; 
+	 position: absolute; 
+	 width: 133px;
+	 height: 11px;
+	 z-index:29;
+} 
+
+ #ThepowerofNeuer 
+{ 
+	 left: 919px; 
+	 top: 166px; 
+	 position: absolute; 
+	 width: 119px;
+	 height: 13px;
+	 z-index:30;
+} 
+
+ #Themostintenseandfam 
+{ 
+	 left: 919px; 
+	 top: 265px; 
+	 position: absolute; 
+	 width: 126px;
+	 height: 31px;
+	 z-index:31;
+} 
+
+ #Rooneyjusthavebeaten 
+{ 
+	 left: 919px; 
+	 top: 365px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 31px;
+	 z-index:32;
+} 
+
+ #SirAlexFergusontheMU 
+{ 
+	 left: 919px; 
+	 top: 466px; 
+	 position: absolute; 
+	 width: 131px;
+	 height: 33px;
+	 z-index:33;
+} 
+
+ #Morevideos 
+{ 
+	 left: 771px; 
+	 top: 580px; 
+	 position: absolute; 
+	 width: 89px;
+	 height: 14px;
+	 z-index:34;
+} 
+
+ #VIDEOS 
+{ 
+	 left: 891px; 
+	 top: 37px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 14px;
+	 z-index:35;
+} 
+
+ #Shape8copy32 
+{ 
+	 left: 768px; 
+	 top: 42px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 6px;
+	 z-index:36;
+} 
+
+ #Shape8copy32_0 
+{ 
+	 left: 958px; 
+	 top: 42px; 
+	 position: absolute; 
+	 width: 112px;
+	 height: 6px;
+	 z-index:37;
+} 
+
+ #Shape8copy32_1 
+{ 
+	 left: 768px; 
+	 top: 599px; 
+	 position: absolute; 
+	 width: 303px;
+	 height: 8px;
+	 z-index:38;
+} 
+
+ #Layer147 
+{ 
+	 left: 770px; 
+	 top: 65px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 88px;
+	 z-index:39;
+} 
+
+ #Layer168 
+{ 
+	 left: 770px; 
+	 top: 65px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 90px;
+	 z-index:40;
+} 
+
+ #Layer170 
+{ 
+	 left: 770px; 
+	 top: 265px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 90px;
+	 z-index:41;
+} 
+
+ #Layer171 
+{ 
+	 left: 770px; 
+	 top: 365px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 90px;
+	 z-index:42;
+} 
+
+ #Layer172 
+{ 
+	 left: 770px; 
+	 top: 465px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 90px;
+	 z-index:43;
+} 
+
+ #Shape27copy 
+{ 
+	 left: 775px; 
+	 top: 131px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:44;
+} 
+
+ #Shape76copy7 
+{ 
+	 left: 776px; 
+	 top: 131px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 18px;
+	 z-index:45;
+} 
+
+ #Layer169 
+{ 
+	 left: 770px; 
+	 top: 165px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 90px;
+	 z-index:46;
+} 
+
+ #Shape27copy5 
+{ 
+	 left: 775px; 
+	 top: 231px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:47;
+} 
+
+ #Shape76copy8 
+{ 
+	 left: 776px; 
+	 top: 231px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 18px;
+	 z-index:48;
+} 
+
+ #Shape27copy7 
+{ 
+	 left: 776px; 
+	 top: 330px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:49;
+} 
+
+ #Shape76copy9 
+{ 
+	 left: 776px; 
+	 top: 331px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 18px;
+	 z-index:50;
+} 
+
+ #Shape27copy8 
+{ 
+	 left: 777px; 
+	 top: 431px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:51;
+} 
+
+ #Shape76copy10 
+{ 
+	 left: 776px; 
+	 top: 431px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 18px;
+	 z-index:52;
+} 
+
+ #Shape27copy9 
+{ 
+	 left: 775px; 
+	 top: 530px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 19px;
+	 z-index:53;
+} 
+
+ #Shape76copy11 
+{ 
+	 left: 776px; 
+	 top: 531px; 
+	 position: absolute; 
+	 width: 23px;
+	 height: 18px;
+	 z-index:54;
+} 
+
+ #MainNews 
+{ 
+	 left: 131px; 
+	 top: 368px; 
+	 position: absolute; 
+	 width: 108px;
+	 height: 18px;
+	 z-index:55;
+} 
+
+ #Shape8copy17 
+{ 
+	 left: 248px; 
+	 top: 381px; 
+	 position: absolute; 
+	 width: 503px;
+	 height: 6px;
+	 z-index:56;
+} 
+
+ #CR7alsohavesomeballs 
+{ 
+	 left: 450px; 
+	 top: 490px; 
+	 position: absolute; 
+	 width: 128px;
+	 height: 31px;
+	 z-index:57;
+} 
+
+ #Layer86 
+{ 
+	 left: 610px; 
+	 top: 395px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 88px;
+	 z-index:58;
+} 
+
+ #Messigotsomeballoons 
+{ 
+	 left: 292px; 
+	 top: 490px; 
+	 position: absolute; 
+	 width: 116px;
+	 height: 29px;
+	 z-index:59;
+} 
+
+ #Layer85 
+{ 
+	 left: 450px; 
+	 top: 395px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 88px;
+	 z-index:60;
+} 
+
+ #TheFIFABallond39Oris 
+{ 
+	 left: 131px; 
+	 top: 490px; 
+	 position: absolute; 
+	 width: 138px;
+	 height: 64px;
+	 z-index:61;
+} 
+
+ #Shape75copy9 
+{ 
+	 left: 708px; 
+	 top: 487px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 16px;
+	 z-index:62;
+} 
+
+ #Layer83 
+{ 
+	 left: 130px; 
+	 top: 395px; 
+	 position: absolute; 
+	 width: 140px;
+	 height: 88px;
+	 z-index:63;
+} 
+
+ #Layer161 
+{ 
+	 left: 130px; 
+	 top: 395px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 90px;
+	 z-index:64;
+} 
+
+ #Layer162 
+{ 
+	 left: 290px; 
+	 top: 395px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 90px;
+	 z-index:65;
+} 
+
+ #Layer164 
+{ 
+	 left: 608px; 
+	 top: 395px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 90px;
+	 z-index:66;
+} 
+
+ #Layer163 
+{ 
+	 left: 449px; 
+	 top: 395px; 
+	 position: absolute; 
+	 width: 142px;
+	 height: 90px;
+	 z-index:67;
+} 
+
+ #Layer90 
+{ 
+	 left: 530px; 
+	 top: 986px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 139px;
+	 z-index:68;
+} 
+
+ #Riberygotvase 
+{ 
+	 left: 611px; 
+	 top: 490px; 
+	 position: absolute; 
+	 width: 92px;
+	 height: 13px;
+	 z-index:69;
+} 
+
+ #BayernMunichvsBarcel 
+{ 
+	 left: 530px; 
+	 top: 1129px; 
+	 position: absolute; 
+	 width: 214px;
+	 height: 35px;
+	 z-index:70;
+} 
+
+ #Casillasgotsomepiece 
+{ 
+	 left: 529px; 
+	 top: 930px; 
+	 position: absolute; 
+	 width: 195px;
+	 height: 37px;
+	 z-index:71;
+} 
+
+ #Layer167 
+{ 
+	 left: 530px; 
+	 top: 785px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 140px;
+	 z-index:72;
+} 
+
+ #Layer166 
+{ 
+	 left: 530px; 
+	 top: 587px; 
+	 position: absolute; 
+	 width: 220px;
+	 height: 140px;
+	 z-index:73;
+} 
+
+ #HereishowLeageChampi 
+{ 
+	 left: 529px; 
+	 top: 730px; 
+	 position: absolute; 
+	 width: 212px;
+	 height: 37px;
+	 z-index:74;
+} 
+
+ #Shape75copy3 
+{ 
+	 left: 539px; 
+	 top: 1099px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 17px;
+	 z-index:75;
+} 
+
+ #Shape75copy4 
+{ 
+	 left: 539px; 
+	 top: 899px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 17px;
+	 z-index:76;
+} 
+
+ #Shape75copy6 
+{ 
+	 left: 539px; 
+	 top: 701px; 
+	 position: absolute; 
+	 width: 22px;
+	 height: 18px;
+	 z-index:77;
+} 
